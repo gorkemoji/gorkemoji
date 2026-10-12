@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning about **Jetpack Compose!**
-- 💬 Ask me about **Android**
+- 🌱 I’m currently learning about **Flutter!**
+- 💬 Ask me about **Mobile Programming**
 - 📫 How to reach me:
 
 <div align="center">
