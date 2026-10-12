@@ -20,6 +20,9 @@
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://komarev.com/ghpvc/?username=gorkemoji&color=green" alt="" /></td>
+    <td><img
+  src="https://komarev.com/ghpvc/?username=gorkemoji&color=green&style=flat-square"
+  alt="Profile views"
+/></td>
   </tr>
 </table>
